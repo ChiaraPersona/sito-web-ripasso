@@ -1,0 +1,29 @@
+.navbar {
+  background-color: gainsboro;
+}
+/*  */
+
+.logo {
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+  width: fit-content;
+  padding: 0.3rem 0.3rem;
+}
+
+.logo:hover {
+  background-color: olivedrab;
+}
+
+.logo-img {
+  height: 2.5rem;
+}
+
+.logo-text {
+  color: black;
+  font-size: 1.3rem;
+}
+
+/*  */
